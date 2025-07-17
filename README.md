@@ -139,6 +139,3 @@ This document outlines the test cases for the To-Do app, covering different func
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details. (You might want to create a LICENSE file if you plan to use one).
