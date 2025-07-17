@@ -63,9 +63,9 @@ This document outlines the test cases for the To-Do app, covering different func
     * Expected Result: Tasks are sorted alphabetically ("Buy groceries", "Call mom", "Finish report", "Walk the dog").
     * Screenshot: 
 
-           Before ![UnSorted Tasks](ScreenShots/ss3_1.png) 
+        Before ![UnSorted Tasks](ScreenShots/ss3_1.png) 
 
-           After  ![Sorted Tasks](ScreenShots/ss3_2.png) 
+        After  ![Sorted Tasks](ScreenShots/ss3_2.png) 
 
 * **Test Case 2: Sort with New Task Affecting Order:**
     * Input: Add "Attend meeting", then click "Sort Tasks".
