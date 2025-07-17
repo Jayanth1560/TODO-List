@@ -95,7 +95,7 @@ This document outlines the test cases for the To-Do app, covering different func
     * Expected Result: "Input Error" message box with "Please enter a valid number."
     * Screenshot: ![Delete Empty Input Error](ScreenShots/ss4_2.png) 
 
-           Result ![Delete Empty Input Error](ScreenShots/ss4_4.png)
+        Result ![Delete Empty Input Error](ScreenShots/ss4_4.png)
 
 * **Test Case 5: Delete with Non-Numeric Input:**
     * Input: Enter "abc" in "Delete task number", click "Delete".
@@ -114,7 +114,7 @@ This document outlines the test cases for the To-Do app, covering different func
     * Expected Result: "Error" message box with "No tasks to delete."
     * Screenshot: ![Delete Empty List Error](ScreenShots/ss5_1.png) 
 
-           Result ![Delete Empty List Error](ScreenShots/ss5_2.png)
+        Result ![Delete Empty List Error](ScreenShots/ss5_2.png)
 
 
 ## Phase 4: Exit Functionality
