@@ -63,6 +63,7 @@ This document outlines the test cases for the To-Do app, covering different func
     * Expected Result: Tasks are sorted alphabetically ("Buy groceries", "Call mom", "Finish report", "Walk the dog").
     * Screenshot: 
     Before ![UnSorted Tasks](ScreenShots/ss3_1.png) 
+
     After ![Sorted Tasks](ScreenShots/ss3_2.png)
 
 * **Test Case 2: Sort with New Task Affecting Order:**
@@ -92,6 +93,7 @@ This document outlines the test cases for the To-Do app, covering different func
     * Input: Leave "Delete task number" field empty, click "Delete".
     * Expected Result: "Input Error" message box with "Please enter a valid number."
     * Screenshot: ![Delete Empty Input Error](ScreenShots/ss4_2.png) 
+
     Result ![Delete Empty Input Error](ScreenShots/ss4_4.png)
 
 * **Test Case 5: Delete with Non-Numeric Input:**
@@ -110,6 +112,7 @@ This document outlines the test cases for the To-Do app, covering different func
     * Input: Click "Delete" with an empty task list.
     * Expected Result: "Error" message box with "No tasks to delete."
     * Screenshot: ![Delete Empty List Error](ScreenShots/ss5_1.png) 
+    
     Result ![Delete Empty List Error](ScreenShots/ss5_2.png)
 
 
